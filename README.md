@@ -6,7 +6,7 @@ Rachel Kroetch, Will Tham, Nicholas Werner, Pirooz Wallace, Paolo Rafael
 
 ## Deployed Site
 
-![Heroku Link](https://pirooz-escape-final.herokuapp.com/)
+[Heroku Link](https://pirooz-escape-final.herokuapp.com/)
 
 ## Table of Contents
 * [Description](#description)
